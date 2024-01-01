@@ -1,0 +1,14 @@
+div p {
+  background-color: #ffff00;
+  color: #ff0000;
+  font-size: 20px;
+  text-align: center;
+}
+
+/*
+Here are some possible selector combinations:
+.container .text
+.container p
+div .text
+using > between selectors instead of using space (e.g. div > p)  
+*/
