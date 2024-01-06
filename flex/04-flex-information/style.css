@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -27,7 +28,7 @@ img {
 }
 
 .plant {
-  width: 200px;
+  max-width: 200px;
   text-wrap: wrap;
 }
 
