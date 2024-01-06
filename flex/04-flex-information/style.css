@@ -20,6 +20,11 @@ img {
   gap: 52px;
 }
 
+.plant {
+  width: 200px;
+  text-wrap: wrap;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
