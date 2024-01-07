@@ -53,3 +53,7 @@ body {
   border-radius: 4px;
   width: 300px;
 }
+
+ul {
+  list-style-type: none;
+}
